@@ -1,4 +1,4 @@
-class Procdump < Formula
+class listent < Formula
     desc "A Sysinternals fast command-line tool to discover and list code signing entitlements for macOS executable binaries. Supports static scanning, real-time process monitoring, and background daemon operation."
     homepage "https://github.com/microsoft/Sysinternals-listent"
     url "https://github.com/microsoft/Sysinternals-listent/releases/download/1.0.0/listent-1.0.0.zip"
